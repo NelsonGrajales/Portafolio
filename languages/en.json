@@ -7,6 +7,7 @@
         "title":"Experience"
     },
     "skills":{
-        "timeskills": "Years of Experience"
+        "timeskills": "Years of Experience",
+        "titleskill": "Design"
     }
 }

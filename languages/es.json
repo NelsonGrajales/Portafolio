@@ -1,12 +1,13 @@
 {
     "profile":{
         "rol": "Desarrollador Web",
-        "description": "descripcion Un Desarrollador Junior o Junior Developer trabaja en un equipo de desarrollo escribiendo y manteniendo código para aplicaciones informáticas."
+        "description": "Programador junior sin experiencia laboral con conocimientos adquiridos solo con prácticas personales."
     },
     "experience": {
         "title":"Experiencia"
     },
     "skills":{
-        "timeskills": "Años de experiencia"
+        "timeskills": "Años de experiencia",
+        "titleskill": "Diseño"
     }
 }
